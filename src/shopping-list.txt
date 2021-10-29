@@ -11,3 +11,5 @@ feature-1 -- 1
 
 feature-1 -- 2
 feature-1 -- 2
+master add sth
+master add sth
